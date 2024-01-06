@@ -60,6 +60,7 @@ namespace MovieConsole
     {
         public void RunClient()
         {
+            ///
             GoldCustomer goldObj = new GoldCustomer();
             AccessCustomers(goldObj);
             SilverCustomer silverObj = new SilverCustomer();
