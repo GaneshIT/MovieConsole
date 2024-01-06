@@ -1,0 +1,7 @@
+﻿SOLID Principles
+
+S - Single responsiblity
+O - open closed - open file and modify minimal changes
+L - Liskov substition
+I - Interface segregation
+D - Dependency Inversion  DI
